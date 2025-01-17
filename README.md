@@ -1,4 +1,10 @@
 # calcul-réseau
+
+...Pôle informatique : 50 équipements + 2 → 64 adresses..
+...Pôle développement : 12 équipements + 2 → 16 adresses..
+...Pôle administratif : 20 équipements + 2 → 32 adresses..
+...Pôle technicien : 15 équipements + 2 → 16 adresses..
+
 ## Symétrique
 |  Informations  | Pôle Informatique        |  Pôle Développement |  Pôle Technicien   |  Pôle Administration  |
 |:---------------|---------------|---------------|-------------|------------:|
