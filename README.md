@@ -1,5 +1,5 @@
 # calcul-réseau
-...Symétrique..
+## Symétrique
 | Pôle Informatique        |  Pôle Développement |  Pôle Technicien   |  Pôle Administration  |
 |:---------------|---------------|---------------|------------:|
 **Nombre de Machine**  | 50 |  12  |  15  |  20  |
@@ -9,7 +9,7 @@
 **Broadcast**  | 192.16.1.52/26  |  172.16.1.67/27  |  172.16.1.84/28  |  172.16.1.106/28  |
 
 
-...Asymétrique..
+## Asymétrique
 | Pôle Informatique        |  Pôle Administration |  Pôle Technicien   |  Pôle Développement  | nbre de machines
 |:---------------|---------------|---------------|------------:|
 **Nombre de Machine**  | 50 |  20  |  15  |  12  |
