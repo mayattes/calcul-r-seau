@@ -10,7 +10,7 @@
 
 
 ## Asymétrique
-| Pôle Informatique        |  Pôle Administration |  Pôle Technicien   |  Pôle Développement  | nbre de machines
+| Pôle Informatique        |  Pôle Administration |  Pôle Technicien   |  Pôle Développement  |
 |:---------------|---------------|---------------|------------:|
 **Nombre de Machine**  | 50 |  20  |  15  |  12  |
 **Adresse du réseau**  | 172.16.1.0/26  |  172.16.1.53/27  |  172.16.1.75/28  |  172.16.1.92/28  |
