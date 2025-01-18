@@ -12,10 +12,10 @@
 
 ## Asymétrique
 
--Pôle informatique : 50 équipements, 2^6: 64-2=62  adresses. CIDR: 32-6=26..
--Pôle administratif : 20 équipements, 2^5: 32-2=30 adresses CIDR: 32-5=27..
--Pôle technicien : 15 équipements, 2^4: 16-2=14 adresses. CIDR: 32-4=28..
--Pôle développement : 12 équipements, 2^4: 16-2=14 adresses. CIDR: 32-4=28..
+#### Pôle informatique : 50 équipements, 2^6: 64-2=62  adresses. CIDR: 32-6=26
+#### Pôle administratif : 20 équipements, 2^5: 32-2=30 adresses CIDR: 32-5=27
+#### Pôle technicien : 15 équipements, 2^4: 16-2=14 adresses. CIDR: 32-4=28
+#### Pôle développement : 12 équipements, 2^4: 16-2=14 adresses. CIDR: 32-4=28
 
 
 |  Pôles | Pôle Informatique        |  Pôle Administration |  Pôle Technicien   |  Pôle Développement  |
